@@ -1,3 +1,4 @@
+#Karol Hydel, Kamil Fudali, Filip Jasicki
 key_ = 0
 def code(txt):
     coded = ""
